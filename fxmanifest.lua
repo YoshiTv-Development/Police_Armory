@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 author 'YoshiTv' 
 description 'Police Armory'
-discord 'https://discord.gg/XnYDhzWyuq'
+discord 'https://discord.gg/v73eQpGp5b'
 
 shared_script {
     '@es_extended/imports.lua',
